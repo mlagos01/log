@@ -39,10 +39,3 @@ def multiply(num1, num2):
 
 # TODO: Now call the function a few times to calculate the following answers
 print("12 x 96 =", multiply(12, 96))
-
-print("48 x 17 =", multiply(48, 17))
-
-print("196523 x 87323 =", multiply(196523, 87323))
-
-print("196524 x 87324 =", multiply(196524, 87324))
-print("196524 x 87325 =", multiply(196524, 87325))
