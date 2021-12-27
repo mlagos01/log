@@ -44,5 +44,4 @@ print("48 x 17 =", multiply(48, 17))
 
 print("196523 x 87323 =", multiply(196523, 87323))
 
-print("2 +2  =", suma(2, 2))
-print("2 +3  =", suma(2, 3))
+print("196524 x 87324 =", multiply(196524, 87324))
